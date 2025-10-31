@@ -1,0 +1,22 @@
+
+{
+  "header.title.part1": "Game Character",
+  "header.title.part2": "Concept Generator",
+  "header.subtitle": "Powered by Gemini",
+  "header.selectLanguage": "Language",
+  "form.gameTheme.label": "Game Theme & Style",
+  "form.gameTheme.placeholder": "e.g., A dark fantasy RPG with gothic architecture and magical elements.",
+  "form.characterDetails.label": "Character Details",
+  "form.characterDetails.placeholder": "e.g., A young female knight with silver hair, wearing ornate steel armor with gold trim, wielding a glowing blue sword.",
+  "form.imageStyle.label": "Image Style",
+  "form.imageStyle.standing": "Standing Portrait",
+  "form.imageStyle.pixel": "Pixel Art",
+  "form.pixelSize.label": "Pixel Size",
+  "form.numImages.label": "Number of Images ({numImages})",
+  "form.button.generating": "Generating...",
+  "form.button.generate": "Generate Concepts",
+  "loader.message": "Generating character concepts...",
+  "grid.placeholder.title": "Your character concepts will appear here",
+  "grid.placeholder.description": "Fill out the form and click \"Generate\" to see the magic happen!",
+  "grid.error.prefix": "Failed to generate images: "
+}

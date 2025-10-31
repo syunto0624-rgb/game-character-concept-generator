@@ -1,0 +1,21 @@
+export default {
+  "header.title.part1": "游戏角色",
+  "header.title.part2": "概念生成器",
+  "header.subtitle": "由 Gemini 驱动",
+  "header.selectLanguage": "语言",
+  "form.gameTheme.label": "游戏主题与风格",
+  "form.gameTheme.placeholder": "例如：一个拥有哥特式建筑和魔法元素的黑暗幻想RPG。",
+  "form.characterDetails.label": "角色详情",
+  "form.characterDetails.placeholder": "例如：一位银发年轻女骑士，身穿带金边的华丽钢甲，手持一把发光的蓝色宝剑。",
+  "form.imageStyle.label": "图像风格",
+  "form.imageStyle.standing": "立绘",
+  "form.imageStyle.pixel": "像素艺术",
+  "form.pixelSize.label": "像素大小",
+  "form.numImages.label": "图像数量 ({numImages})",
+  "form.button.generating": "生成中...",
+  "form.button.generate": "生成概念",
+  "loader.message": "正在生成角色概念...",
+  "grid.placeholder.title": "您的角色概念将显示在这里",
+  "grid.placeholder.description": "填写表单并点击“生成”，见证奇迹的发生！",
+  "grid.error.prefix": "生成图像失败: "
+};

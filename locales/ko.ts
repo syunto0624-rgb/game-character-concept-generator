@@ -1,0 +1,21 @@
+export default {
+  "header.title.part1": "게임 캐릭터",
+  "header.title.part2": "콘셉트 생성기",
+  "header.subtitle": "Gemini 제공",
+  "header.selectLanguage": "언어",
+  "form.gameTheme.label": "게임 테마 및 스타일",
+  "form.gameTheme.placeholder": "예: 고딕 건축과 마법 요소가 있는 다크 판타지 RPG.",
+  "form.characterDetails.label": "캐릭터 세부 정보",
+  "form.characterDetails.placeholder": "예: 은발의 젊은 여기사, 금색 테두리가 있는 화려한 강철 갑옷을 입고 빛나는 파란색 검을 휘두름.",
+  "form.imageStyle.label": "이미지 스타일",
+  "form.imageStyle.standing": "스탠딩 일러스트",
+  "form.imageStyle.pixel": "픽셀 아트",
+  "form.pixelSize.label": "픽셀 크기",
+  "form.numImages.label": "이미지 수 ({numImages})",
+  "form.button.generating": "생성 중...",
+  "form.button.generate": "콘셉트 생성",
+  "loader.message": "캐릭터 콘셉트를 생성 중입니다...",
+  "grid.placeholder.title": "캐릭터 콘셉트가 여기에 표시됩니다",
+  "grid.placeholder.description": "양식을 작성하고 '생성'을 클릭하여 마법을 경험하세요!",
+  "grid.error.prefix": "이미지를 생성하지 못했습니다: "
+};

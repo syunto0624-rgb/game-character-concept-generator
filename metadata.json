@@ -1,0 +1,5 @@
+{
+  "name": "Game Character Concept Generator",
+  "description": "An application that generates character concepts, including standing portraits and pixel art, based on game features and character descriptions using Gemini.",
+  "requestFramePermissions": []
+}

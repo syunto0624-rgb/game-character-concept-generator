@@ -1,0 +1,21 @@
+export default {
+  "header.title.part1": "ゲームキャラクター",
+  "header.title.part2": "コンセプトジェネレーター",
+  "header.subtitle": "Gemini を利用",
+  "header.selectLanguage": "言語",
+  "form.gameTheme.label": "ゲームのテーマとスタイル",
+  "form.gameTheme.placeholder": "例：ゴシック建築と魔法の要素があるダークファンタジーRPG。",
+  "form.characterDetails.label": "キャラクターの詳細",
+  "form.characterDetails.placeholder": "例：銀髪の若い女性騎士、金の縁取りがある華麗な鋼の鎧を着用し、青く光る剣を振るう。",
+  "form.imageStyle.label": "画像スタイル",
+  "form.imageStyle.standing": "立ち絵",
+  "form.imageStyle.pixel": "ドット絵",
+  "form.pixelSize.label": "ピクセルサイズ",
+  "form.numImages.label": "画像数 ({numImages})",
+  "form.button.generating": "生成中...",
+  "form.button.generate": "コンセプトを生成",
+  "loader.message": "キャラクターコンセプトを生成中...",
+  "grid.placeholder.title": "キャラクターコンセプトはここに表示されます",
+  "grid.placeholder.description": "フォームに入力し、「生成」をクリックして魔法を体験してください！",
+  "grid.error.prefix": "画像の生成に失敗しました: "
+};
